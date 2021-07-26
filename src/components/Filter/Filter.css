@@ -1,0 +1,12 @@
+.input-filter {
+  display: block;
+  padding: 10px;
+  margin-left: 30px;
+  margin-top: 15px;
+  width: 250px;
+}
+.label {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: 500;
+}

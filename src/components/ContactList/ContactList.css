@@ -1,0 +1,26 @@
+.list {
+  width: 500px;
+  padding: 15px;
+  margin-left: 30px;
+}
+
+.item {
+  display: flex;
+
+  padding: 10px;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 500;
+}
+.name {
+  margin: 0;
+}
+.button {
+  margin-left: auto;
+  padding: 10px;
+  color: white;
+  background-color: rgb(0, 119, 255);
+  border: transparent;
+  font-size: 15px;
+  font-weight: 500;
+}
